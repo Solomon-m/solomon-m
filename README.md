@@ -1,24 +1,17 @@
 ### <div align="center">Hello, I'm Solomon</div>  
   
-
 - 🔭 I’m currently working on [Fullcreative](https://full.io)  
   
-
 - 🌱 I’m currently learning PostgreSQL  
   
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
 - 🗣️  I speak தமிழ் and English   
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -79,11 +72,7 @@
 <a href="https://medium.com/@solomonmark" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
+</div>   
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=solomon-m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
