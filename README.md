@@ -94,19 +94,4 @@
 ## Recent Blog Posts  
 [Upload,Download and Delete files from Amazon S3 using Amazon Cognito and NodeJS](https://medium.com/@solomonmark/uploading-downloading-and-deleting-files-in-amazon-s3-using-amazon-cognito-and-nodejs-5d9ffbd6c729)  
   
-
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
