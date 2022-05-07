@@ -1,6 +1,6 @@
 ### <div align="center">Hello, I'm Solomon</div>  
   
-- 🔭 I’m currently working on [Fullcreative](https://full.io)  
+- 🔭 I’m currently working at [Fullcreative](https://full.io)  
   
 - 🌱 I’m currently learning PostgreSQL  
   
