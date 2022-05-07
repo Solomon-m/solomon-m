@@ -77,7 +77,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=solomon-m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
+<br/>
 
 ## Recent Blog Posts  
 [Upload,Download and Delete files from Amazon S3 using Amazon Cognito and NodeJS](https://medium.com/@solomonmark/uploading-downloading-and-deleting-files-in-amazon-s3-using-amazon-cognito-and-nodejs-5d9ffbd6c729)  
