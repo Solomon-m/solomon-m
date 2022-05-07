@@ -1,12 +1,12 @@
-### <div align="center">Hello, I'm Solomon</div>  
+### <div align="center">Hi, I'm Solomon</div>  
   
 - 🔭 I’m currently working at [Fullcreative](https://full.io)  
   
-- 🌱 I’m currently learning PostgreSQL  
+- 🌱 I’m currently learning PostgreSQL
   
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.
   
-- 🗣️  I speak தமிழ் and English   
+- 🗣️  I speak தமிழ் and English.  
   
 <br/>  
 
