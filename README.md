@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning PostgreSQL
   
 - ❓ Ask me about anything related to MERN stack and related technologies.
-  
-- 🗣️  I speak தமிழ் and English.  
-  
+    
 <br/>  
 
 ## My Skill Set  
