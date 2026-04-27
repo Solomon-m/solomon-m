@@ -112,8 +112,7 @@
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Standardize Git Commits with Commitizen, Husky, and Commitlint](https://solomonmark.dev/posts/commitizen-husky-commitlint/) &nbsp;·&nbsp; 000 DD, YYYY- [How I Built This Blog](https://solomonmark.dev/posts/how-i-built-this-blog/) &nbsp;·&nbsp; 000 DD, YYYY- [Serving Dynamic Voice Prompts in Amazon Connect from Amazon S3](https://solomonmark.dev/posts/serving-dynamic-voice-prompts-amazon-connect/) &nbsp;·&nbsp; 000 DD, YYYY<!-- BLOG-POST-LIST:END -->
 
 > 📡 *Auto-synced daily from [solomonmark.dev](https://solomonmark.dev) via RSS — new posts appear here automatically*
 
