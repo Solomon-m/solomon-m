@@ -112,7 +112,11 @@
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Standardize Git Commits with Commitizen, Husky, and Commitlint](https://solomonmark.dev/posts/commitizen-husky-commitlint/) &nbsp;·&nbsp; 000 DD, YYYY- [How I Built This Blog](https://solomonmark.dev/posts/how-i-built-this-blog/) &nbsp;·&nbsp; 000 DD, YYYY- [Serving Dynamic Voice Prompts in Amazon Connect from Amazon S3](https://solomonmark.dev/posts/serving-dynamic-voice-prompts-amazon-connect/) &nbsp;·&nbsp; 000 DD, YYYY<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<a href="https://solomonmark.dev/posts/commitizen-husky-commitlint/"><img src="https://solomonmark.dev/posts/commitizen-husky-commitlint.og.png" alt="Standardize Git Commits with Commitizen, Husky, and Commitlint" width="400"/></a>
+<a href="https://solomonmark.dev/posts/how-i-built-this-blog/"><img src="https://solomonmark.dev/posts/how-i-built-this-blog.og.png" alt="How I Built This Blog" width="400"/></a>
+<a href="https://solomonmark.dev/posts/serving-dynamic-voice-prompts-amazon-connect/"><img src="https://solomonmark.dev/posts/serving-dynamic-voice-prompts-amazon-connect.og.png" alt="Serving Dynamic Voice Prompts in Amazon Connect from Amazon S3" width="400"/></a>
+<!-- BLOG-POST-LIST:END -->
 
 > 📡 *Auto-synced daily from [solomonmark.dev](https://solomonmark.dev) via RSS — new posts appear here automatically*
 
