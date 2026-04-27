@@ -2,7 +2,7 @@ name: Sync Latest Blog Posts
 
 on:
   schedule:
-    - cron: "59 0 * * *" # Runs every day at 6:50 AM UTC
+    - cron: "0 * * * *" # Runs every hour
   workflow_dispatch: # Allow manual trigger from GitHub Actions tab
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch & inject blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://solomonmark.dev/rss.xml"
           max_post_count: 5
