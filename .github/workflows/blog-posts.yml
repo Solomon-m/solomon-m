@@ -2,7 +2,7 @@ name: Sync Latest Blog Posts
 
 on:
   schedule:
-    - cron: "12 1 * * *" # Runs every day at 1:12 AM UTC
+    - cron: "0 6 * * *" # Runs every day at 6:00 AM UTC
   workflow_dispatch: # Allow manual trigger from GitHub Actions tab
 
 jobs:
@@ -16,14 +16,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch & inject blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          feed_list: "https://solomonmark.dev/rss.xml"
-          max_post_count: 5
-          readme_path: README.md
-          comment_tag_name: BLOG-POST-LIST
-          template: "- [$title]($url) &nbsp;·&nbsp; $date"
-          date_format: "MMM DD, YYYY"
-          commit_message: "chore: sync latest blog posts from solomonmark.dev"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: "20"
+
+      - name: Fetch & inject blog posts
+        run: node .github/scripts/update-blog-posts.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "chore: sync latest blog posts from solomonmark.dev" && git push)
