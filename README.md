@@ -104,10 +104,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=solomon-m&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solomon-m&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomon-m&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomon-m&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solomon-m&theme=tokyonight&utcOffset=8" width="32%" />
 </div>
 
 ---
