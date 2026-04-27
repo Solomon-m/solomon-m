@@ -2,7 +2,7 @@ name: Sync Latest Blog Posts
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "12 1 * * *" # Runs every day at 1:12 AM UTC
   workflow_dispatch: # Allow manual trigger from GitHub Actions tab
 
 jobs:
