@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/solomonmark-dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SolomonMarkDev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@solomonmark)
-[![Email](https://img.shields.io/badge/hello@solomonmark.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@solomonmark.dev)
+[![Email](https://img.shields.io/badge/slmnmark@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slmnmark@gamil.com)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=solomon-m.solomon-m&color=0ea5e9)
 
