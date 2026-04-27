@@ -23,10 +23,10 @@
 > *Building AI-powered solutions for cloud contact centers — connecting Amazon Connect with LLM-driven agents, real-time intent routing, and post-call analytics.*
 
 - 🏢 **Module Lead** at [AnywhereWorks](https://anywhere.co) — leading AI contact center engineering
-- ☁️ **AWS Cloud Engineer** specializing in serverless architecture & Amazon Connect across **6 AWS regions**
+- ☁️ **AWS Cloud Engineer** specializing in serverless architecture & Amazon Connect and Building AI solutions for contact center.
 - 🤖 Currently building **LLM-driven agent routing** and **post-call analytics** pipelines
-- 🌱 Deepening expertise in **PostgreSQL** and **AI/LLM integrations**
-- 🚀 **9+ years** building scalable full-stack web applications
+- 🌱 Deepening expertise in **Lambda,Dynamodb, S3, Kinesis, API Gateway** and **AI/LLM integrations**
+- 🚀 **10+ years** building scalable full-stack web applications and **7+ years** experience in building Cloud Contact Center Application.
 - 📫 Reach me at **slmnmark@gmail.com**
 
 ---
