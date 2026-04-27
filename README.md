@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/solomon-m" width="120" style="border-radius:50%" />
-
 # Hi, I'm Solomon Mark 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Module+Lead+%40+AnywhereWorks;Full-Stack+Engineer+%7C+9%2B+Years;AWS+Cloud+%26+Serverless+Architect;Building+AI-Powered+Contact+Centers)](https://git.io/typing-svg)
